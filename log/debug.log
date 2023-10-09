@@ -108,3 +108,742 @@ INFO 2023-09-26 13:41:29,722 basehttp 17564 4948 "GET / HTTP/1.1" 200 14
 INFO 2023-09-26 13:42:16,751 autoreload 13756 15784 Watching for file changes with StatReloader
 INFO 2023-09-26 13:42:18,158 views 13756 4760 37
 INFO 2023-09-26 13:42:18,159 basehttp 13756 4760 "GET / HTTP/1.1" 200 14
+INFO 2023-09-27 12:18:04,688 autoreload 12276 1140 Watching for file changes with StatReloader
+INFO 2023-09-27 12:18:10,539 views 12276 16236 19
+INFO 2023-09-27 12:18:10,545 basehttp 12276 16236 "GET / HTTP/1.1" 200 14
+WARNING 2023-09-27 12:18:11,780 log 12276 16236 Not Found: /favicon.ico
+WARNING 2023-09-27 12:18:11,784 basehttp 12276 16236 "GET /favicon.ico HTTP/1.1" 404 2719
+INFO 2023-09-27 12:18:53,965 autoreload 12276 1140 C:\Users\user\PycharmProjects\django seminars\djangoproject\urls.py changed, reloading.
+INFO 2023-09-27 12:18:55,137 autoreload 7520 9108 Watching for file changes with StatReloader
+WARNING 2023-09-27 12:19:00,060 log 7520 11056 Not Found: /
+WARNING 2023-09-27 12:19:00,062 basehttp 7520 11056 "GET / HTTP/1.1" 404 2175
+INFO 2023-09-27 12:19:19,161 autoreload 7520 9108 C:\Users\user\PycharmProjects\django seminars\djangoproject\urls.py changed, reloading.
+INFO 2023-09-27 12:19:20,469 autoreload 16368 18784 Watching for file changes with StatReloader
+WARNING 2023-09-27 12:19:27,507 log 16368 19344 Not Found: /lec3/
+WARNING 2023-09-27 12:19:27,509 basehttp 16368 19344 "GET /lec3/ HTTP/1.1" 404 2445
+INFO 2023-09-27 12:20:07,386 autoreload 16368 18784 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:20:08,311 autoreload 16900 8584 Watching for file changes with StatReloader
+INFO 2023-09-27 12:20:12,713 basehttp 16900 6208 "GET /lec3/hello HTTP/1.1" 301 0
+INFO 2023-09-27 12:20:12,725 basehttp 16900 2324 "GET /lec3/hello/ HTTP/1.1" 200 16
+INFO 2023-09-27 12:20:15,806 basehttp 16900 2324 "GET /lec3/hello2/ HTTP/1.1" 200 17
+INFO 2023-09-27 12:24:49,270 autoreload 16900 8584 C:\Users\user\PycharmProjects\django seminars\lection3_app\urls.py changed, reloading.
+INFO 2023-09-27 12:24:50,741 autoreload 17380 18984 Watching for file changes with StatReloader
+INFO 2023-09-27 12:24:55,300 autoreload 17380 18984 C:\Users\user\PycharmProjects\django seminars\lection3_app\urls.py changed, reloading.
+INFO 2023-09-27 12:24:56,407 autoreload 14680 13112 Watching for file changes with StatReloader
+INFO 2023-09-27 12:25:53,194 autoreload 14680 13112 C:\Users\user\PycharmProjects\django seminars\lection3_app\urls.py changed, reloading.
+INFO 2023-09-27 12:25:54,201 autoreload 13816 18484 Watching for file changes with StatReloader
+INFO 2023-09-27 12:25:58,310 autoreload 13816 18484 C:\Users\user\PycharmProjects\django seminars\lection3_app\urls.py changed, reloading.
+INFO 2023-09-27 12:25:59,198 autoreload 11000 2328 Watching for file changes with StatReloader
+INFO 2023-09-27 12:26:25,069 autoreload 11000 2328 C:\Users\user\PycharmProjects\django seminars\lection3_app\urls.py changed, reloading.
+INFO 2023-09-27 12:26:26,124 autoreload 6944 9484 Watching for file changes with StatReloader
+INFO 2023-09-27 12:26:34,431 autoreload 6944 9484 C:\Users\user\PycharmProjects\django seminars\lection3_app\urls.py changed, reloading.
+INFO 2023-09-27 12:26:35,728 autoreload 3660 7572 Watching for file changes with StatReloader
+INFO 2023-09-27 12:26:42,647 autoreload 3660 7572 C:\Users\user\PycharmProjects\django seminars\lection3_app\urls.py changed, reloading.
+INFO 2023-09-27 12:26:43,764 autoreload 19244 9748 Watching for file changes with StatReloader
+INFO 2023-09-27 12:26:51,024 autoreload 19244 9748 C:\Users\user\PycharmProjects\django seminars\lection3_app\urls.py changed, reloading.
+INFO 2023-09-27 12:26:51,936 autoreload 3344 9648 Watching for file changes with StatReloader
+INFO 2023-09-27 12:27:57,374 autoreload 3344 9648 C:\Users\user\PycharmProjects\django seminars\lection3_app\urls.py changed, reloading.
+INFO 2023-09-27 12:27:58,583 autoreload 4616 6160 Watching for file changes with StatReloader
+INFO 2023-09-27 12:36:13,702 autoreload 4616 6160 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:36:15,352 autoreload 14176 1580 Watching for file changes with StatReloader
+INFO 2023-09-27 12:36:36,025 autoreload 14176 1580 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:36:37,046 autoreload 9696 17296 Watching for file changes with StatReloader
+INFO 2023-09-27 12:36:43,211 autoreload 9696 17296 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:36:44,176 autoreload 16704 12040 Watching for file changes with StatReloader
+INFO 2023-09-27 12:36:51,406 autoreload 16704 12040 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:36:52,157 autoreload 14904 15604 Watching for file changes with StatReloader
+INFO 2023-09-27 12:36:55,968 autoreload 14904 15604 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:36:56,756 autoreload 2456 15708 Watching for file changes with StatReloader
+INFO 2023-09-27 12:37:11,911 autoreload 2456 15708 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:37:12,931 autoreload 7928 144 Watching for file changes with StatReloader
+INFO 2023-09-27 12:37:21,490 autoreload 7928 144 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:37:22,429 autoreload 14340 1320 Watching for file changes with StatReloader
+INFO 2023-09-27 12:37:30,462 autoreload 14340 1320 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:37:31,339 autoreload 5480 13244 Watching for file changes with StatReloader
+INFO 2023-09-27 12:37:37,210 autoreload 5480 13244 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:37:38,139 autoreload 18964 18948 Watching for file changes with StatReloader
+INFO 2023-09-27 12:37:46,483 autoreload 18964 18948 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:37:47,893 autoreload 15680 6496 Watching for file changes with StatReloader
+INFO 2023-09-27 12:38:17,466 autoreload 15680 6496 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:38:18,451 autoreload 8860 18488 Watching for file changes with StatReloader
+INFO 2023-09-27 12:38:41,185 autoreload 8860 18488 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:38:42,466 autoreload 9372 16604 Watching for file changes with StatReloader
+WARNING 2023-09-27 12:39:03,257 log 9372 7400 Not Found: /lec3/posts
+WARNING 2023-09-27 12:39:03,262 basehttp 9372 7400 "GET /lec3/posts HTTP/1.1" 404 3090
+WARNING 2023-09-27 12:39:08,577 log 9372 7400 Not Found: /lec3/posts/2022
+WARNING 2023-09-27 12:39:08,578 basehttp 9372 7400 "GET /lec3/posts/2022 HTTP/1.1" 404 3105
+INFO 2023-09-27 12:39:28,209 basehttp 9372 6960 "GET /lec3/post/2022 HTTP/1.1" 200 21
+INFO 2023-09-27 12:39:43,795 basehttp 9372 11232 "GET /lec3/post/2022/06 HTTP/1.1" 200 23
+INFO 2023-09-27 12:43:29,677 autoreload 9372 16604 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:43:33,204 autoreload 11876 4384 Watching for file changes with StatReloader
+INFO 2023-09-27 12:43:46,537 autoreload 11876 4384 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:43:47,571 autoreload 18000 18628 Watching for file changes with StatReloader
+INFO 2023-09-27 12:43:53,142 autoreload 18000 18628 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:43:54,291 autoreload 18636 16660 Watching for file changes with StatReloader
+INFO 2023-09-27 12:44:18,477 autoreload 18636 16660 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:44:19,373 autoreload 14712 16704 Watching for file changes with StatReloader
+INFO 2023-09-27 12:44:26,582 autoreload 14712 16704 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:44:27,705 autoreload 9876 16420 Watching for file changes with StatReloader
+INFO 2023-09-27 12:44:36,974 autoreload 9876 16420 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:44:38,035 autoreload 1956 16740 Watching for file changes with StatReloader
+INFO 2023-09-27 12:44:43,206 autoreload 1956 16740 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:44:44,109 autoreload 17636 7296 Watching for file changes with StatReloader
+INFO 2023-09-27 12:44:54,155 autoreload 17636 7296 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:44:54,996 autoreload 14100 12144 Watching for file changes with StatReloader
+INFO 2023-09-27 12:44:59,589 autoreload 14100 12144 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:45:00,536 autoreload 16396 3636 Watching for file changes with StatReloader
+INFO 2023-09-27 12:45:10,073 autoreload 16396 3636 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:45:10,815 autoreload 17768 18772 Watching for file changes with StatReloader
+INFO 2023-09-27 12:45:14,690 autoreload 17768 18772 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 12:45:15,713 autoreload 14984 10460 Watching for file changes with StatReloader
+INFO 2023-09-27 14:49:42,026 autoreload 14984 10460 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 14:49:43,433 autoreload 4904 17836 Watching for file changes with StatReloader
+INFO 2023-09-27 14:49:49,191 autoreload 4904 17836 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 14:49:50,568 autoreload 17372 7692 Watching for file changes with StatReloader
+INFO 2023-09-27 14:49:55,139 autoreload 17372 7692 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 14:49:56,874 autoreload 6936 15032 Watching for file changes with StatReloader
+INFO 2023-09-27 14:50:43,087 basehttp 6936 18792 "GET /lec3/post/2022/06/fdgd32 HTTP/1.1" 200 94
+INFO 2023-09-27 14:59:06,549 autoreload 6936 15032 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 14:59:07,918 autoreload 12060 1312 Watching for file changes with StatReloader
+INFO 2023-09-27 14:59:10,291 autoreload 12060 1312 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 14:59:11,488 autoreload 3856 14212 Watching for file changes with StatReloader
+INFO 2023-09-27 14:59:26,061 autoreload 3856 14212 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 14:59:27,240 autoreload 10396 4944 Watching for file changes with StatReloader
+INFO 2023-09-27 14:59:31,996 autoreload 10396 4944 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 14:59:33,024 autoreload 18652 16140 Watching for file changes with StatReloader
+INFO 2023-09-27 14:59:34,618 autoreload 18652 16140 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 14:59:35,610 autoreload 17064 14788 Watching for file changes with StatReloader
+INFO 2023-09-27 14:59:50,456 autoreload 17064 14788 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 14:59:51,706 autoreload 12604 9680 Watching for file changes with StatReloader
+INFO 2023-09-27 14:59:55,893 autoreload 12604 9680 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 14:59:57,029 autoreload 10264 17988 Watching for file changes with StatReloader
+INFO 2023-09-27 15:00:01,019 autoreload 10264 17988 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 15:00:02,012 autoreload 964 13144 Watching for file changes with StatReloader
+INFO 2023-09-27 15:00:11,502 autoreload 964 13144 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 15:00:12,752 autoreload 19160 18532 Watching for file changes with StatReloader
+INFO 2023-09-27 15:00:14,446 autoreload 19160 18532 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 15:00:15,468 autoreload 14452 4328 Watching for file changes with StatReloader
+INFO 2023-09-27 15:00:19,369 autoreload 14452 4328 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 15:00:20,894 autoreload 19412 12388 Watching for file changes with StatReloader
+INFO 2023-09-27 15:00:24,909 autoreload 19412 12388 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 15:00:26,287 autoreload 14848 4948 Watching for file changes with StatReloader
+INFO 2023-09-27 15:02:39,258 autoreload 14848 4948 C:\Users\user\PycharmProjects\django seminars\lection3_app\urls.py changed, reloading.
+INFO 2023-09-27 15:02:40,221 autoreload 8640 17388 Watching for file changes with StatReloader
+INFO 2023-09-27 15:02:44,279 autoreload 8640 17388 C:\Users\user\PycharmProjects\django seminars\lection3_app\urls.py changed, reloading.
+INFO 2023-09-27 15:02:45,216 autoreload 18024 9540 Watching for file changes with StatReloader
+INFO 2023-09-27 15:02:50,551 autoreload 18024 9540 C:\Users\user\PycharmProjects\django seminars\lection3_app\urls.py changed, reloading.
+INFO 2023-09-27 15:02:51,522 autoreload 18628 12060 Watching for file changes with StatReloader
+INFO 2023-09-27 15:02:55,282 autoreload 18628 12060 C:\Users\user\PycharmProjects\django seminars\lection3_app\urls.py changed, reloading.
+INFO 2023-09-27 15:02:56,532 autoreload 16004 3300 Watching for file changes with StatReloader
+WARNING 2023-09-27 15:03:02,092 log 16004 15840 Not Found: /
+WARNING 2023-09-27 15:03:02,097 basehttp 16004 15840 "GET / HTTP/1.1" 404 2171
+INFO 2023-09-27 15:03:39,119 basehttp 16004 11844 "GET /lec3 HTTP/1.1" 301 0
+INFO 2023-09-27 15:03:39,164 basehttp 16004 18964 "GET /lec3/ HTTP/1.1" 200 162
+INFO 2023-09-27 15:09:27,388 basehttp 16004 18932 "GET /lec3/ HTTP/1.1" 200 192
+INFO 2023-09-27 15:18:43,250 autoreload 16004 3300 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 15:18:44,124 autoreload 15400 1644 Watching for file changes with StatReloader
+INFO 2023-09-27 15:19:45,627 autoreload 15400 1644 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 15:19:46,791 autoreload 6860 5712 Watching for file changes with StatReloader
+INFO 2023-09-27 15:19:47,089 basehttp 6860 14276 "GET /lec3/ HTTP/1.1" 200 471
+INFO 2023-09-27 15:29:42,592 autoreload 6860 5712 C:\Users\user\PycharmProjects\django seminars\djangoproject\settings.py changed, reloading.
+INFO 2023-09-27 15:29:43,874 autoreload 4132 5500 Watching for file changes with StatReloader
+INFO 2023-09-27 16:26:31,201 autoreload 4132 5500 C:\Users\user\PycharmProjects\django seminars\djangoproject\settings.py changed, reloading.
+INFO 2023-09-27 16:26:33,740 autoreload 7580 17824 Watching for file changes with StatReloader
+INFO 2023-09-27 16:26:58,686 autoreload 7580 17824 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 16:26:59,999 autoreload 18696 10472 Watching for file changes with StatReloader
+INFO 2023-09-27 16:32:25,814 autoreload 18696 10472 C:\Users\user\PycharmProjects\django seminars\lection3_app\views.py changed, reloading.
+INFO 2023-09-27 16:32:29,462 autoreload 10376 18856 Watching for file changes with StatReloader
+INFO 2023-09-28 21:16:37,374 autoreload 14484 15288 Watching for file changes with StatReloader
+INFO 2023-09-28 21:17:56,794 autoreload 14484 15288 C:\Users\user\PycharmProjects\django seminars\sem2_app\urls.py changed, reloading.
+INFO 2023-09-28 21:18:00,091 autoreload 1704 2404 Watching for file changes with StatReloader
+INFO 2023-09-28 21:18:04,900 autoreload 1704 2404 C:\Users\user\PycharmProjects\django seminars\sem2_app\urls.py changed, reloading.
+INFO 2023-09-28 21:18:06,525 autoreload 17376 13260 Watching for file changes with StatReloader
+WARNING 2023-09-28 21:18:08,852 log 17376 17960 Not Found: /
+WARNING 2023-09-28 21:18:08,853 basehttp 17376 17960 "GET / HTTP/1.1" 404 2275
+WARNING 2023-09-28 21:18:09,061 log 17376 17960 Not Found: /favicon.ico
+WARNING 2023-09-28 21:18:09,063 basehttp 17376 17960 "GET /favicon.ico HTTP/1.1" 404 2326
+WARNING 2023-09-28 21:18:20,882 log 17376 17960 Not Found: /sem
+WARNING 2023-09-28 21:18:20,885 basehttp 17376 17960 "GET /sem HTTP/1.1" 404 2302
+WARNING 2023-09-28 21:18:27,852 log 17376 17960 Not Found: /sem/
+WARNING 2023-09-28 21:18:27,854 basehttp 17376 17960 "GET /sem/ HTTP/1.1" 404 2372
+INFO 2023-09-28 21:18:35,847 basehttp 17376 17960 "GET /sem/about HTTP/1.1" 301 0
+INFO 2023-09-28 21:18:35,884 basehttp 17376 17532 "GET /sem/about/ HTTP/1.1" 200 123
+INFO 2023-09-28 21:18:48,863 basehttp 17376 17532 "GET /sem/about/ HTTP/1.1" 200 123
+INFO 2023-09-28 21:19:11,759 autoreload 17376 13260 C:\Users\user\PycharmProjects\django seminars\sem2_app\views.py changed, reloading.
+INFO 2023-09-28 21:19:13,416 autoreload 684 11032 Watching for file changes with StatReloader
+INFO 2023-09-28 21:19:13,848 basehttp 684 10912 "GET /sem/about/ HTTP/1.1" 200 329
+INFO 2023-09-28 21:19:22,471 autoreload 684 11032 C:\Users\user\PycharmProjects\django seminars\sem2_app\urls.py changed, reloading.
+INFO 2023-09-28 21:19:23,412 autoreload 6736 14248 Watching for file changes with StatReloader
+INFO 2023-09-28 21:20:02,025 autoreload 6736 14248 C:\Users\user\PycharmProjects\django seminars\sem2_app\views.py changed, reloading.
+INFO 2023-09-28 21:20:03,600 autoreload 18864 11604 Watching for file changes with StatReloader
+ERROR 2023-09-28 21:25:19,171 log 18864 7708 Internal Server Error: /sem/about/
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: sem2_app/base.hmtl
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\PycharmProjects\django seminars\sem2_app\views.py", line 17, in about
+    return render(request, 'sem2_app/about.html', context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: sem2_app/base.hmtl
+ERROR 2023-09-28 21:25:19,193 basehttp 18864 7708 "GET /sem/about/ HTTP/1.1" 500 127908
+INFO 2023-09-28 21:25:33,201 autoreload 14392 12904 Watching for file changes with StatReloader
+ERROR 2023-09-28 21:25:35,726 log 14392 14080 Internal Server Error: /sem/about/
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: sem2_app/base.hmtl
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\PycharmProjects\django seminars\sem2_app\views.py", line 17, in about
+    return render(request, 'sem2_app/about.html', context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: sem2_app/base.hmtl
+ERROR 2023-09-28 21:25:35,733 basehttp 14392 14080 "GET /sem/about/ HTTP/1.1" 500 127908
+ERROR 2023-09-28 21:25:38,167 log 14392 14080 Internal Server Error: /sem/about/
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: sem2_app/base.hmtl
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\PycharmProjects\django seminars\sem2_app\views.py", line 17, in about
+    return render(request, 'sem2_app/about.html', context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: sem2_app/base.hmtl
+ERROR 2023-09-28 21:25:38,170 basehttp 14392 14080 "GET /sem/about/ HTTP/1.1" 500 127908
+INFO 2023-09-28 21:26:23,159 autoreload 7780 14292 Watching for file changes with StatReloader
+INFO 2023-09-28 21:26:27,215 basehttp 7780 15584 "GET /sem/about/ HTTP/1.1" 200 336
+WARNING 2023-09-28 21:28:30,438 log 7780 8256 Not Found: /favicon.ico
+WARNING 2023-09-28 21:28:30,439 basehttp 7780 8256 "GET /favicon.ico HTTP/1.1" 404 2326
+INFO 2023-10-02 16:25:39,744 autoreload 4352 1564 Watching for file changes with StatReloader
+WARNING 2023-10-02 16:25:54,552 log 4352 10000 Not Found: /
+WARNING 2023-10-02 16:25:54,555 basehttp 4352 10000 "GET / HTTP/1.1" 404 2380
+WARNING 2023-10-02 16:25:54,779 log 4352 10000 Not Found: /favicon.ico
+WARNING 2023-10-02 16:25:54,781 basehttp 4352 10000 "GET /favicon.ico HTTP/1.1" 404 2431
+WARNING 2023-10-02 16:26:01,287 log 4352 10000 Not Found: /lec4
+WARNING 2023-10-02 16:26:01,290 basehttp 4352 10000 "GET /lec4 HTTP/1.1" 404 2410
+WARNING 2023-10-02 16:26:06,698 log 4352 10528 Not Found: /lec4/
+WARNING 2023-10-02 16:26:06,699 basehttp 4352 10528 "GET /lec4/ HTTP/1.1" 404 2486
+INFO 2023-10-02 16:26:11,477 basehttp 4352 10528 "GET /lec4/user/add HTTP/1.1" 200 679
+INFO 2023-10-02 16:33:17,507 basehttp 4352 17004 "GET /lec4/user/add HTTP/1.1" 200 886
+INFO 2023-10-02 16:34:32,282 basehttp 4352 17776 "POST /lec4/user/add HTTP/1.1" 200 933
+INFO 2023-10-02 16:38:47,244 basehttp 4352 11400 "POST /lec4/user/add HTTP/1.1" 200 804
+INFO 2023-10-02 17:16:23,219 autoreload 4352 1564 C:\Users\user\PycharmProjects\django seminars\lection4_app\forms.py changed, reloading.
+INFO 2023-10-02 17:16:25,297 autoreload 17396 10364 Watching for file changes with StatReloader
+INFO 2023-10-02 18:32:56,029 autoreload 17396 10364 C:\Users\user\PycharmProjects\django seminars\lection4_app\forms.py changed, reloading.
+INFO 2023-10-02 18:32:56,862 autoreload 6568 12276 Watching for file changes with StatReloader
+INFO 2023-10-09 15:04:11,669 autoreload 14384 1264 Watching for file changes with StatReloader
+WARNING 2023-10-09 15:04:13,429 log 14384 16240 Not Found: /
+WARNING 2023-10-09 15:04:13,431 basehttp 14384 16240 "GET / HTTP/1.1" 404 2380
+WARNING 2023-10-09 15:04:13,651 log 14384 15548 Not Found: /favicon.ico
+WARNING 2023-10-09 15:04:13,652 basehttp 14384 15548 "GET /favicon.ico HTTP/1.1" 404 2431
+INFO 2023-10-09 15:04:42,157 basehttp 14384 9424 "GET /lec3/ HTTP/1.1" 200 471
+INFO 2023-10-09 15:11:12,058 autoreload 14384 1264 C:\Users\user\PycharmProjects\django seminars\djangoproject\urls.py changed, reloading.
+INFO 2023-10-09 15:11:13,604 autoreload 2340 4468 Watching for file changes with StatReloader
+INFO 2023-10-09 15:12:22,551 autoreload 2340 4468 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 15:12:23,403 autoreload 280 5232 Watching for file changes with StatReloader
+INFO 2023-10-09 15:12:43,895 autoreload 280 5232 C:\Users\user\PycharmProjects\django seminars\shop_app\urls.py changed, reloading.
+INFO 2023-10-09 15:12:45,154 autoreload 8612 16296 Watching for file changes with StatReloader
+WARNING 2023-10-09 15:12:45,411 log 8612 16788 Not Found: /
+WARNING 2023-10-09 15:12:45,413 basehttp 8612 16788 "GET / HTTP/1.1" 404 2485
+WARNING 2023-10-09 15:12:52,056 log 8612 8092 Not Found: /shop/
+WARNING 2023-10-09 15:12:52,057 basehttp 8612 8092 "GET /shop/ HTTP/1.1" 404 2585
+INFO 2023-10-09 15:12:56,701 basehttp 8612 8092 "GET /shop/hello/ HTTP/1.1" 200 140
+INFO 2023-10-09 15:13:13,855 autoreload 8612 16296 C:\Users\user\PycharmProjects\django seminars\shop_app\urls.py changed, reloading.
+INFO 2023-10-09 15:13:14,739 autoreload 15944 9120 Watching for file changes with StatReloader
+INFO 2023-10-09 15:42:27,590 autoreload 14788 13252 Watching for file changes with StatReloader
+INFO 2023-10-09 19:47:34,336 autoreload 8172 14556 Watching for file changes with StatReloader
+INFO 2023-10-09 19:47:39,132 basehttp 8172 8148 "GET /shop/hello/ HTTP/1.1" 200 140
+WARNING 2023-10-09 19:47:42,255 log 8172 8148 Not Found: /shop
+WARNING 2023-10-09 19:47:42,255 basehttp 8172 8148 "GET /shop HTTP/1.1" 404 2515
+WARNING 2023-10-09 19:47:48,256 log 8172 8148 Not Found: /
+WARNING 2023-10-09 19:47:48,257 basehttp 8172 8148 "GET / HTTP/1.1" 404 2485
+WARNING 2023-10-09 19:47:52,600 log 8172 8148 Not Found: /shop/
+WARNING 2023-10-09 19:47:52,600 basehttp 8172 8148 "GET /shop/ HTTP/1.1" 404 2780
+INFO 2023-10-09 19:48:09,379 basehttp 8172 8148 "GET /shop/items/2 HTTP/1.1" 200 143
+INFO 2023-10-09 19:48:13,159 basehttp 8172 8148 "GET /shop/items/3 HTTP/1.1" 200 143
+INFO 2023-10-09 19:48:18,644 basehttp 8172 8148 "GET /shop/items/4 HTTP/1.1" 200 143
+INFO 2023-10-09 19:48:39,305 autoreload 8172 14556 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 19:48:39,867 autoreload 6420 15120 Watching for file changes with StatReloader
+INFO 2023-10-09 19:48:52,460 autoreload 6420 15120 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 19:48:53,095 autoreload 8684 16260 Watching for file changes with StatReloader
+INFO 2023-10-09 19:50:38,328 autoreload 8684 16260 C:\Users\user\PycharmProjects\django seminars\shop_app\models.py changed, reloading.
+INFO 2023-10-09 19:50:38,806 autoreload 10708 15500 Watching for file changes with StatReloader
+INFO 2023-10-09 19:53:43,417 autoreload 10708 15500 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 19:53:44,079 autoreload 4396 14504 Watching for file changes with StatReloader
+INFO 2023-10-09 19:55:11,296 autoreload 4396 14504 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 19:55:11,771 autoreload 9932 10124 Watching for file changes with StatReloader
+INFO 2023-10-09 19:56:32,236 autoreload 9932 10124 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 19:56:32,742 autoreload 3632 4968 Watching for file changes with StatReloader
+ERROR 2023-10-09 19:56:35,943 log 3632 15808 Internal Server Error: /shop/items/4
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: shop_app_ordershop
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\PycharmProjects\django seminars\shop_app\views.py", line 21, in show_items
+    return render(request, 'shop_app/index.html', context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 1070, in render
+    return render_value_in_context(output, context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 1047, in render_value_in_context
+    value = str(value)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\models\query.py", line 374, in __repr__
+    data = list(self[: REPR_OUTPUT_SIZE + 1])
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: shop_app_ordershop
+ERROR 2023-10-09 19:56:35,950 basehttp 3632 15808 "GET /shop/items/4 HTTP/1.1" 500 171928
+INFO 2023-10-09 19:57:31,681 autoreload 3632 4968 C:\Users\user\PycharmProjects\django seminars\shop_app\models.py changed, reloading.
+INFO 2023-10-09 19:57:32,246 autoreload 5264 16268 Watching for file changes with StatReloader
+INFO 2023-10-09 19:57:33,252 basehttp 5264 3392 "GET /shop/items/4 HTTP/1.1" 200 170
+INFO 2023-10-09 19:57:43,675 basehttp 5264 6856 "GET /shop/items/2 HTTP/1.1" 200 603
+INFO 2023-10-09 19:59:22,738 autoreload 5264 16268 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 19:59:23,288 autoreload 780 6536 Watching for file changes with StatReloader
+INFO 2023-10-09 19:59:23,596 basehttp 780 16224 "GET /shop/items/2 HTTP/1.1" 200 586
+INFO 2023-10-09 20:00:44,784 autoreload 780 6536 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:00:45,328 autoreload 2664 13120 Watching for file changes with StatReloader
+INFO 2023-10-09 20:00:45,786 basehttp 2664 2876 "GET /shop/items/2 HTTP/1.1" 200 586
+INFO 2023-10-09 20:00:46,964 basehttp 2664 2876 "GET /shop/items/2 HTTP/1.1" 200 586
+INFO 2023-10-09 20:00:47,604 basehttp 2664 2876 "GET /shop/items/2 HTTP/1.1" 200 586
+INFO 2023-10-09 20:00:47,788 basehttp 2664 2876 "GET /shop/items/2 HTTP/1.1" 200 586
+INFO 2023-10-09 20:00:48,163 basehttp 2664 2876 "GET /shop/items/2 HTTP/1.1" 200 586
+INFO 2023-10-09 20:00:48,331 basehttp 2664 2876 "GET /shop/items/2 HTTP/1.1" 200 586
+INFO 2023-10-09 20:00:48,479 basehttp 2664 2876 "GET /shop/items/2 HTTP/1.1" 200 586
+INFO 2023-10-09 20:00:48,635 basehttp 2664 2876 "GET /shop/items/2 HTTP/1.1" 200 586
+INFO 2023-10-09 20:00:48,763 basehttp 2664 2876 "GET /shop/items/2 HTTP/1.1" 200 586
+INFO 2023-10-09 20:00:48,925 basehttp 2664 2876 "GET /shop/items/2 HTTP/1.1" 200 586
+INFO 2023-10-09 20:00:49,099 basehttp 2664 2876 "GET /shop/items/2 HTTP/1.1" 200 586
+INFO 2023-10-09 20:00:49,278 basehttp 2664 2876 "GET /shop/items/2 HTTP/1.1" 200 586
+INFO 2023-10-09 20:00:49,395 basehttp 2664 2876 "GET /shop/items/2 HTTP/1.1" 200 586
+INFO 2023-10-09 20:00:49,712 basehttp 2664 2876 "GET /shop/items/2 HTTP/1.1" 200 586
+INFO 2023-10-09 20:01:13,452 autoreload 2664 13120 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:01:14,011 autoreload 16996 16388 Watching for file changes with StatReloader
+INFO 2023-10-09 20:01:14,205 basehttp 16996 16928 "GET /shop/items/2 HTTP/1.1" 200 586
+INFO 2023-10-09 20:01:15,456 basehttp 16996 5388 "GET /shop/items/2 HTTP/1.1" 200 586
+INFO 2023-10-09 20:01:46,149 autoreload 16996 16388 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:01:46,636 autoreload 3328 16036 Watching for file changes with StatReloader
+ERROR 2023-10-09 20:01:46,784 log 3328 12916 Internal Server Error: /shop/items/2
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\PycharmProjects\django seminars\shop_app\views.py", line 19, in show_items
+    for order in orders:
+TypeError: 'Order_shop' object is not iterable
+ERROR 2023-10-09 20:01:46,786 basehttp 3328 12916 "GET /shop/items/2 HTTP/1.1" 500 65218
+INFO 2023-10-09 20:01:57,201 autoreload 3328 16036 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:01:57,865 autoreload 14168 9036 Watching for file changes with StatReloader
+INFO 2023-10-09 20:01:58,050 basehttp 14168 17320 "GET /shop/items/2 HTTP/1.1" 200 172
+INFO 2023-10-09 20:02:08,324 autoreload 14168 9036 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:02:08,862 autoreload 14048 1092 Watching for file changes with StatReloader
+INFO 2023-10-09 20:02:09,266 basehttp 14048 11536 "GET /shop/items/2 HTTP/1.1" 200 586
+ERROR 2023-10-09 20:02:39,648 log 14048 1804 Internal Server Error: /shop/items/2
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\PycharmProjects\django seminars\shop_app\views.py", line 24, in show_items
+    return render(request, 'shop_app/index.html', context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 484, in parse
+    raise self.error(token, e)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 482, in parse
+    filter_expression = self.compile_filter(token.contents)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '[0]' from 'my_list[0]'
+ERROR 2023-10-09 20:02:39,651 basehttp 14048 1804 "GET /shop/items/2 HTTP/1.1" 500 137866
+ERROR 2023-10-09 20:02:55,794 log 14048 11280 Internal Server Error: /shop/items/2
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\PycharmProjects\django seminars\shop_app\views.py", line 24, in show_items
+    return render(request, 'shop_app/index.html', context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\base.py", line 478, in parse
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Empty variable tag on line 10
+ERROR 2023-10-09 20:02:55,796 basehttp 14048 11280 "GET /shop/items/2 HTTP/1.1" 500 123425
+INFO 2023-10-09 20:07:23,565 autoreload 14048 1092 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:07:24,168 autoreload 10916 12016 Watching for file changes with StatReloader
+INFO 2023-10-09 20:07:33,597 basehttp 10916 9796 "GET /shop/items/2 HTTP/1.1" 200 154
+INFO 2023-10-09 20:07:35,931 basehttp 10916 9396 "GET /shop/items/2 HTTP/1.1" 200 154
+INFO 2023-10-09 20:07:37,003 basehttp 10916 9396 "GET /shop/items/2 HTTP/1.1" 200 154
+INFO 2023-10-09 20:07:39,988 basehttp 10916 9396 "GET /shop/items/2 HTTP/1.1" 200 154
+INFO 2023-10-09 20:07:48,178 autoreload 10916 12016 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:07:48,701 autoreload 11268 16036 Watching for file changes with StatReloader
+INFO 2023-10-09 20:07:48,941 basehttp 11268 13964 "GET /shop/items/2 HTTP/1.1" 200 154
+INFO 2023-10-09 20:07:49,980 basehttp 11268 13964 "GET /shop/items/2 HTTP/1.1" 200 154
+INFO 2023-10-09 20:08:30,567 autoreload 11268 16036 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:08:31,082 autoreload 14692 14256 Watching for file changes with StatReloader
+INFO 2023-10-09 20:08:31,192 basehttp 14692 15804 "GET /shop/items/2 HTTP/1.1" 200 175
+INFO 2023-10-09 20:08:41,540 basehttp 14692 15804 "GET /shop/items/2 HTTP/1.1" 200 175
+INFO 2023-10-09 20:08:41,630 autoreload 14692 14256 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:08:42,174 autoreload 10400 12924 Watching for file changes with StatReloader
+INFO 2023-10-09 20:08:43,555 basehttp 10400 6772 "GET /shop/items/2 HTTP/1.1" 200 196
+INFO 2023-10-09 20:09:21,576 autoreload 10400 12924 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:09:22,144 autoreload 9724 14540 Watching for file changes with StatReloader
+INFO 2023-10-09 20:09:55,835 basehttp 9724 14476 "GET /shop/items/2 HTTP/1.1" 200 1131
+INFO 2023-10-09 20:10:05,169 basehttp 9724 14476 "GET /shop/items/2 HTTP/1.1" 200 689
+INFO 2023-10-09 20:24:29,951 basehttp 9724 5956 "GET /shop/items/10 HTTP/1.1" 200 214
+INFO 2023-10-09 20:24:36,910 basehttp 9724 5956 "GET /shop/items/1 HTTP/1.1" 200 321
+INFO 2023-10-09 20:28:43,878 autoreload 9724 14540 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:28:46,039 autoreload 10696 16680 Watching for file changes with StatReloader
+INFO 2023-10-09 20:28:54,165 autoreload 10696 16680 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:28:55,064 autoreload 18308 18144 Watching for file changes with StatReloader
+INFO 2023-10-09 20:29:10,354 autoreload 18308 18144 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:29:11,049 autoreload 9816 17292 Watching for file changes with StatReloader
+INFO 2023-10-09 20:29:22,237 autoreload 9816 17292 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:29:23,061 autoreload 17776 8888 Watching for file changes with StatReloader
+INFO 2023-10-09 20:29:56,740 autoreload 17776 8888 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:29:57,644 autoreload 5824 16200 Watching for file changes with StatReloader
+INFO 2023-10-09 20:30:10,768 autoreload 5824 16200 C:\Users\user\PycharmProjects\django seminars\shop_app\urls.py changed, reloading.
+INFO 2023-10-09 20:30:11,448 autoreload 15740 15852 Watching for file changes with StatReloader
+INFO 2023-10-09 20:30:31,007 autoreload 15740 15852 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:30:31,900 autoreload 17880 7908 Watching for file changes with StatReloader
+INFO 2023-10-09 20:32:32,006 autoreload 17880 7908 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:32:32,751 autoreload 18112 11120 Watching for file changes with StatReloader
+INFO 2023-10-09 20:33:24,467 basehttp 18112 9660 "GET /shop/items/1/1 HTTP/1.1" 301 0
+ERROR 2023-10-09 20:33:24,576 log 18112 16300 Internal Server Error: /shop/items/1/1/
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\PycharmProjects\django seminars\shop_app\views.py", line 20, in show_items
+    orders = Order_shop.objects.filter(client=id, order_date__range=(start_date, end_date))
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'order_date' into field. Choices are: client, client_id, id, items, items_id, ordered_at, total_price
+ERROR 2023-10-09 20:33:24,582 basehttp 18112 16300 "GET /shop/items/1/1/ HTTP/1.1" 500 113531
+INFO 2023-10-09 20:34:14,881 autoreload 18112 11120 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:34:15,876 autoreload 2136 11076 Watching for file changes with StatReloader
+INFO 2023-10-09 20:34:16,490 basehttp 2136 13820 "GET /shop/items/1/1/ HTTP/1.1" 200 321
+INFO 2023-10-09 20:34:26,179 basehttp 2136 13820 "GET /shop/items/1/8/ HTTP/1.1" 200 321
+INFO 2023-10-09 20:34:28,128 basehttp 2136 13820 "GET /shop/items/1/8/ HTTP/1.1" 200 321
+INFO 2023-10-09 20:34:28,747 basehttp 2136 13820 "GET /shop/items/1/8/ HTTP/1.1" 200 321
+INFO 2023-10-09 20:34:28,937 basehttp 2136 13820 "GET /shop/items/1/8/ HTTP/1.1" 200 321
+INFO 2023-10-09 20:34:29,074 basehttp 2136 13820 "GET /shop/items/1/8/ HTTP/1.1" 200 321
+INFO 2023-10-09 20:34:29,283 basehttp 2136 13820 "GET /shop/items/1/8/ HTTP/1.1" 200 321
+INFO 2023-10-09 20:34:29,566 basehttp 2136 13820 "GET /shop/items/1/8/ HTTP/1.1" 200 321
+INFO 2023-10-09 20:34:29,726 basehttp 2136 13820 "GET /shop/items/1/8/ HTTP/1.1" 200 321
+INFO 2023-10-09 20:34:29,857 basehttp 2136 13820 "GET /shop/items/1/8/ HTTP/1.1" 200 321
+INFO 2023-10-09 20:35:12,715 autoreload 2136 11076 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:35:13,712 autoreload 11240 6444 Watching for file changes with StatReloader
+INFO 2023-10-09 20:35:19,401 autoreload 11240 6444 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:35:20,153 autoreload 16492 15556 Watching for file changes with StatReloader
+ERROR 2023-10-09 20:35:23,502 log 16492 9176 Internal Server Error: /shop/items/1/8/
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\PycharmProjects\django seminars\shop_app\views.py", line 23, in show_items
+    products.update(order.products.all())
+AttributeError: 'Order_shop' object has no attribute 'products'
+ERROR 2023-10-09 20:35:23,505 basehttp 16492 9176 "GET /shop/items/1/8/ HTTP/1.1" 500 66308
+INFO 2023-10-09 20:35:49,689 autoreload 16492 15556 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:35:50,655 autoreload 17772 6084 Watching for file changes with StatReloader
+ERROR 2023-10-09 20:35:52,801 log 17772 9152 Internal Server Error: /shop/items/1/8/
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\PycharmProjects\django seminars\shop_app\views.py", line 23, in show_items
+    orders_lst.append(order)
+AttributeError: 'set' object has no attribute 'append'
+ERROR 2023-10-09 20:35:52,810 basehttp 17772 9152 "GET /shop/items/1/8/ HTTP/1.1" 500 66252
+INFO 2023-10-09 20:36:25,723 autoreload 17772 6084 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:36:26,470 autoreload 8448 16716 Watching for file changes with StatReloader
+INFO 2023-10-09 20:36:56,995 autoreload 8448 16716 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:36:58,077 autoreload 9204 12024 Watching for file changes with StatReloader
+ERROR 2023-10-09 20:36:59,045 log 9204 17476 Internal Server Error: /shop/items/1/8/
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\PycharmProjects\django seminars\shop_app\views.py", line 23, in show_items
+    orders_lst.update(order.items.all())
+AttributeError: 'Item' object has no attribute 'all'
+ERROR 2023-10-09 20:36:59,048 basehttp 9204 17476 "GET /shop/items/1/8/ HTTP/1.1" 500 66454
+INFO 2023-10-09 20:37:07,242 autoreload 9204 12024 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:37:08,108 autoreload 3464 4016 Watching for file changes with StatReloader
+ERROR 2023-10-09 20:37:08,460 log 3464 7512 Internal Server Error: /shop/items/1/8/
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\PycharmProjects\django seminars\shop_app\views.py", line 23, in show_items
+    orders_lst.update(order.items)
+TypeError: 'Item' object is not iterable
+ERROR 2023-10-09 20:37:08,462 basehttp 3464 7512 "GET /shop/items/1/8/ HTTP/1.1" 500 66342
+INFO 2023-10-09 20:38:33,934 autoreload 3464 4016 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:38:34,840 autoreload 7520 7960 Watching for file changes with StatReloader
+INFO 2023-10-09 20:38:35,108 basehttp 7520 11888 "GET /shop/items/1/8/ HTTP/1.1" 200 321
+INFO 2023-10-09 20:38:44,553 basehttp 7520 11888 "GET /shop/items/1/150/ HTTP/1.1" 200 321
+INFO 2023-10-09 20:38:50,303 basehttp 7520 11888 "GET /shop/items/1/20/ HTTP/1.1" 200 321
+INFO 2023-10-09 20:40:34,036 autoreload 7520 7960 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:40:35,000 autoreload 15028 7064 Watching for file changes with StatReloader
+INFO 2023-10-09 20:40:36,351 basehttp 15028 7296 "GET /shop/items/1/20/ HTTP/1.1" 200 351
+INFO 2023-10-09 20:40:41,240 basehttp 15028 7296 "GET /shop/items/1/10/ HTTP/1.1" 200 351
+INFO 2023-10-09 20:41:33,435 basehttp 15028 7296 "GET /shop/items/1/10/ HTTP/1.1" 200 351
+INFO 2023-10-09 20:41:34,399 basehttp 15028 7296 "GET /shop/items/1/10/ HTTP/1.1" 200 351
+INFO 2023-10-09 20:41:35,047 basehttp 15028 7296 "GET /shop/items/1/10/ HTTP/1.1" 200 351
+INFO 2023-10-09 20:41:35,542 basehttp 15028 7296 "GET /shop/items/1/10/ HTTP/1.1" 200 351
+INFO 2023-10-09 20:41:54,222 basehttp 15028 7296 "GET /shop/items/1/10/ HTTP/1.1" 200 351
+INFO 2023-10-09 20:42:29,843 autoreload 15028 7064 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:42:30,860 autoreload 16928 9840 Watching for file changes with StatReloader
+INFO 2023-10-09 20:42:31,150 basehttp 16928 12936 "GET /shop/items/1/10/ HTTP/1.1" 200 351
+INFO 2023-10-09 20:43:03,559 autoreload 16928 9840 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:43:04,409 autoreload 13460 15356 Watching for file changes with StatReloader
+INFO 2023-10-09 20:43:04,934 basehttp 13460 6656 "GET /shop/items/1/10/ HTTP/1.1" 200 351
+WARNING 2023-10-09 20:43:17,787 log 13460 6656 Not Found: /shop/items/1/-10/
+WARNING 2023-10-09 20:43:17,789 basehttp 13460 6656 "GET /shop/items/1/-10/ HTTP/1.1" 404 2834
+WARNING 2023-10-09 20:43:28,937 log 13460 6656 Not Found: /shop/items/1/-10/
+WARNING 2023-10-09 20:43:28,939 basehttp 13460 6656 "GET /shop/items/1/-10/ HTTP/1.1" 404 2834
+INFO 2023-10-09 20:43:34,395 basehttp 13460 6656 "GET /shop/items/1/1/ HTTP/1.1" 200 350
+INFO 2023-10-09 20:43:57,853 autoreload 13460 15356 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:43:58,712 autoreload 2572 18384 Watching for file changes with StatReloader
+INFO 2023-10-09 20:43:59,048 basehttp 2572 1092 "GET /shop/items/1/1/ HTTP/1.1" 200 188
+INFO 2023-10-09 20:44:17,242 autoreload 2572 18384 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:44:18,234 autoreload 13248 18280 Watching for file changes with StatReloader
+INFO 2023-10-09 20:44:18,628 basehttp 13248 280 "GET /shop/items/1/1/ HTTP/1.1" 200 188
+INFO 2023-10-09 20:44:19,460 basehttp 13248 280 "GET /shop/items/1/1/ HTTP/1.1" 200 188
+INFO 2023-10-09 20:44:33,542 basehttp 13248 280 "GET /shop/items/1/1/ HTTP/1.1" 200 188
+INFO 2023-10-09 20:44:33,632 autoreload 13248 18280 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:44:34,456 autoreload 13004 15708 Watching for file changes with StatReloader
+INFO 2023-10-09 20:44:35,513 basehttp 13004 4596 "GET /shop/items/1/1/ HTTP/1.1" 200 350
+INFO 2023-10-09 20:44:57,081 basehttp 13004 4596 "GET /shop/items/1/6/ HTTP/1.1" 200 350
+INFO 2023-10-09 20:45:27,616 autoreload 13004 15708 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:45:28,584 autoreload 16208 18144 Watching for file changes with StatReloader
+INFO 2023-10-09 20:45:28,889 basehttp 16208 6232 "GET /shop/items/1/6/ HTTP/1.1" 200 350
+INFO 2023-10-09 20:46:11,864 autoreload 16208 18144 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-09 20:46:12,774 autoreload 9800 7372 Watching for file changes with StatReloader
+INFO 2023-10-09 20:46:13,228 basehttp 9800 16680 "GET /shop/items/1/6/ HTTP/1.1" 200 350
+INFO 2023-10-09 20:46:50,334 basehttp 9800 16680 "GET /shop/items/1/6/ HTTP/1.1" 200 350
+INFO 2023-10-09 20:46:51,208 basehttp 9800 16680 "GET /shop/items/1/6/ HTTP/1.1" 200 350
+INFO 2023-10-09 20:46:51,332 basehttp 9800 16680 "GET /shop/items/1/6/ HTTP/1.1" 200 350
+INFO 2023-10-09 20:47:23,182 basehttp 9800 16680 "GET /shop/items/1/6/ HTTP/1.1" 200 350
+INFO 2023-10-09 20:47:27,428 basehttp 9800 16680 "GET /shop/items/1/0/ HTTP/1.1" 200 188
+INFO 2023-10-09 20:47:43,541 basehttp 9800 16680 "GET /shop/items/1/1/ HTTP/1.1" 200 350
+INFO 2023-10-09 20:48:27,921 basehttp 9800 16680 "GET /shop/items/1/1/ HTTP/1.1" 200 296
+INFO 2023-10-09 20:48:44,199 basehttp 9800 16680 "GET /shop/items/1/1000/ HTTP/1.1" 200 299
+INFO 2023-10-09 20:48:46,343 basehttp 9800 16680 "GET /shop/items/1/1000/ HTTP/1.1" 200 299
+INFO 2023-10-09 20:48:47,173 basehttp 9800 16680 "GET /shop/items/1/1000/ HTTP/1.1" 200 299
+INFO 2023-10-09 20:48:47,344 basehttp 9800 16680 "GET /shop/items/1/1000/ HTTP/1.1" 200 299
+INFO 2023-10-09 20:48:47,453 basehttp 9800 16680 "GET /shop/items/1/1000/ HTTP/1.1" 200 299
+INFO 2023-10-09 20:48:47,650 basehttp 9800 16680 "GET /shop/items/1/1000/ HTTP/1.1" 200 299
+INFO 2023-10-09 20:48:47,914 basehttp 9800 16680 "GET /shop/items/1/1000/ HTTP/1.1" 200 299
+INFO 2023-10-09 20:48:48,120 basehttp 9800 16680 "GET /shop/items/1/1000/ HTTP/1.1" 200 299
+INFO 2023-10-09 20:48:48,427 basehttp 9800 16680 "GET /shop/items/1/1000/ HTTP/1.1" 200 299
+INFO 2023-10-09 20:48:48,580 basehttp 9800 16680 "GET /shop/items/1/1000/ HTTP/1.1" 200 299
+INFO 2023-10-09 20:48:48,925 basehttp 9800 16680 "GET /shop/items/1/1000/ HTTP/1.1" 200 299
+INFO 2023-10-09 20:49:07,789 basehttp 9800 16680 "GET /shop/items/1/50/ HTTP/1.1" 200 297
+INFO 2023-10-09 20:49:12,696 basehttp 9800 16680 "GET /shop/items/1/60/ HTTP/1.1" 200 297
+INFO 2023-10-09 20:49:39,860 basehttp 9800 16680 "GET /shop/items/1/60/ HTTP/1.1" 200 351
+INFO 2023-10-09 20:49:54,730 basehttp 9800 16680 "GET /shop/items/1/5/ HTTP/1.1" 200 296
+INFO 2023-10-09 20:49:58,414 basehttp 9800 16680 "GET /shop/items/1/6/ HTTP/1.1" 200 296
+INFO 2023-10-09 20:50:04,190 basehttp 9800 16680 "GET /shop/items/1/10/ HTTP/1.1" 200 351

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p>Hello {{name}}</p>
+<p>Items in last {{ days }} days</p>
+
+
+
+<ul>
+{% for order in orders %}
+
+<li>{{ order.items }}</li>
+{% endfor %}
+</ul>
+
+
+</body>
+</html>

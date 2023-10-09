@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'sem1_app',
     'sem2_app',
+    'lection3_app',
+    'lection4_app',
     'shop_app',
 ]
 

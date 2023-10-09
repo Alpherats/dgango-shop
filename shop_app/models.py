@@ -15,7 +15,7 @@ class Client(models.Model):
 class Item(models.Model):
     item = models.CharField(max_length=50)
     desc = models.TextField()
-    price = models.DecimalField(max_digits=8, decimal_places=2,  default=0)
+    price = models.DecimalField(max_digits=8, decimal_places=2, default=0)
     amount = models.IntegerField()
     added_at = models.DateTimeField(auto_now_add=True)
 
@@ -26,5 +26,12 @@ class Item(models.Model):
 class Order(models.Model):
     client = models.ForeignKey(Client, on_delete=models.CASCADE)
     items = models.ManyToManyField(Item)
+    total_price = models.DecimalField(max_digits=8, decimal_places=2, default=0)
+    ordered_at = models.DateTimeField(auto_now_add=True)
+
+
+class Order_shop(models.Model):
+    client = models.ForeignKey(Client, on_delete=models.CASCADE)
+    items = models.ForeignKey(Item, on_delete=models.CASCADE)
     total_price = models.DecimalField(max_digits=8, decimal_places=2, default=0)
     ordered_at = models.DateTimeField(auto_now_add=True)
