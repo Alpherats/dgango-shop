@@ -847,3 +847,101 @@ INFO 2023-10-09 20:49:39,860 basehttp 9800 16680 "GET /shop/items/1/60/ HTTP/1.1
 INFO 2023-10-09 20:49:54,730 basehttp 9800 16680 "GET /shop/items/1/5/ HTTP/1.1" 200 296
 INFO 2023-10-09 20:49:58,414 basehttp 9800 16680 "GET /shop/items/1/6/ HTTP/1.1" 200 296
 INFO 2023-10-09 20:50:04,190 basehttp 9800 16680 "GET /shop/items/1/10/ HTTP/1.1" 200 351
+INFO 2023-10-14 17:57:47,312 autoreload 17028 15532 Watching for file changes with StatReloader
+INFO 2023-10-14 17:58:06,902 autoreload 17028 15532 C:\Users\user\PycharmProjects\django seminars\lection4_app\views.py changed, reloading.
+INFO 2023-10-14 17:58:07,769 autoreload 17044 8084 Watching for file changes with StatReloader
+INFO 2023-10-14 17:58:22,146 autoreload 11848 9816 Watching for file changes with StatReloader
+INFO 2023-10-14 17:58:56,204 autoreload 5736 19656 Watching for file changes with StatReloader
+WARNING 2023-10-14 17:58:59,471 log 5736 20432 Not Found: /
+WARNING 2023-10-14 17:58:59,472 basehttp 5736 20432 "GET / HTTP/1.1" 404 2485
+WARNING 2023-10-14 17:58:59,636 log 5736 20432 Not Found: /favicon.ico
+WARNING 2023-10-14 17:58:59,637 basehttp 5736 20432 "GET /favicon.ico HTTP/1.1" 404 2536
+WARNING 2023-10-14 17:59:09,916 log 5736 20432 Not Found: /shop/
+WARNING 2023-10-14 17:59:09,918 basehttp 5736 20432 "GET /shop/ HTTP/1.1" 404 2798
+INFO 2023-10-14 17:59:37,615 autoreload 5736 19656 C:\Users\user\PycharmProjects\django seminars\shop_app\urls.py changed, reloading.
+INFO 2023-10-14 17:59:38,376 autoreload 9904 17608 Watching for file changes with StatReloader
+INFO 2023-10-14 18:02:46,112 autoreload 9904 17608 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-14 18:02:46,969 autoreload 5424 9328 Watching for file changes with StatReloader
+INFO 2023-10-14 18:04:35,000 autoreload 5424 9328 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-14 18:04:36,085 autoreload 13320 9000 Watching for file changes with StatReloader
+INFO 2023-10-14 18:04:58,154 autoreload 13320 9000 C:\Users\user\PycharmProjects\django seminars\shop_app\urls.py changed, reloading.
+INFO 2023-10-14 18:04:58,989 autoreload 12716 11724 Watching for file changes with StatReloader
+INFO 2023-10-14 18:05:03,666 autoreload 12716 11724 C:\Users\user\PycharmProjects\django seminars\shop_app\urls.py changed, reloading.
+INFO 2023-10-14 18:05:04,721 autoreload 5156 18664 Watching for file changes with StatReloader
+WARNING 2023-10-14 18:05:07,771 log 5156 3684 Not Found: /shop/
+WARNING 2023-10-14 18:05:07,774 basehttp 5156 3684 "GET /shop/ HTTP/1.1" 404 2999
+WARNING 2023-10-14 18:05:18,444 log 5156 3684 Not Found: /shop/form/
+WARNING 2023-10-14 18:05:18,445 basehttp 5156 3684 "GET /shop/form/ HTTP/1.1" 404 3014
+WARNING 2023-10-14 18:06:00,175 log 5156 3684 Not Found: /shop/form/1
+WARNING 2023-10-14 18:06:00,178 basehttp 5156 3684 "GET /shop/form/1 HTTP/1.1" 404 3017
+INFO 2023-10-14 18:06:11,612 basehttp 5156 3684 "GET /shop/form/edit/1 HTTP/1.1" 301 0
+ERROR 2023-10-14 18:06:12,052 log 5156 3200 Internal Server Error: /shop/form/edit/1/
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such column: shop_app_item.image
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\PycharmProjects\django seminars\shop_app\views.py", line 34, in edit_item
+    item = get_object_or_404(Item, pk=pk)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\shortcuts.py", line 85, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\models\query.py", line 633, in get
+    num = len(clone)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such column: shop_app_item.image
+ERROR 2023-10-14 18:06:12,064 basehttp 5156 3200 "GET /shop/form/edit/1/ HTTP/1.1" 500 134816
+INFO 2023-10-14 18:10:07,284 autoreload 5156 18664 C:\Users\user\PycharmProjects\django seminars\shop_app\models.py changed, reloading.
+INFO 2023-10-14 18:10:08,226 autoreload 17568 9164 Watching for file changes with StatReloader
+INFO 2023-10-14 18:17:44,246 autoreload 19560 16296 Watching for file changes with StatReloader
+WARNING 2023-10-14 18:17:51,302 log 19560 18504 Not Found: /shop/form/
+WARNING 2023-10-14 18:17:51,304 basehttp 19560 18504 "GET /shop/form/ HTTP/1.1" 404 3014
+ERROR 2023-10-14 18:17:58,400 log 19560 18504 Internal Server Error: /shop/form/edit/1/
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\PycharmProjects\django seminars\shop_app\views.py", line 45, in edit_item
+    return render(request, 'item_form.html', {'form': form})
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\user\PycharmProjects\django seminars\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: item_form.html
+ERROR 2023-10-14 18:17:58,406 basehttp 19560 18504 "GET /shop/form/edit/1/ HTTP/1.1" 500 80067
+INFO 2023-10-14 18:19:28,958 autoreload 19560 16296 C:\Users\user\PycharmProjects\django seminars\shop_app\views.py changed, reloading.
+INFO 2023-10-14 18:19:29,744 autoreload 19472 15968 Watching for file changes with StatReloader
+INFO 2023-10-14 18:19:32,408 basehttp 19472 17484 "GET /shop/form/edit/1/ HTTP/1.1" 200 787
+INFO 2023-10-14 18:20:30,317 basehttp 19472 7376 "POST /shop/form/edit/1/ HTTP/1.1" 200 802

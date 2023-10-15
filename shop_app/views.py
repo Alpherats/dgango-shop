@@ -1,7 +1,8 @@
-from django.shortcuts import render
-from shop_app.models import Client, Order_shop
+from django.shortcuts import render, get_object_or_404
+from shop_app.models import Client, Order_shop, Item, ItemImg
 from django.utils import timezone
 from datetime import timedelta
+from .forms import EditProduct
 
 
 def hello_view(request):
@@ -27,3 +28,18 @@ def show_items(request, id, days):
                'orders': orders_lst,
                'days': days, }
     return render(request, 'shop_app/index.html', context)
+
+
+def edit_item(request, pk):
+    item = get_object_or_404(ItemImg, pk=pk)
+
+    if request.method == 'POST':
+        form = EditProduct(request.POST, instance=item)
+        if form.is_valid():
+            form.save()
+            return render(request, 'shop_app/item_form.html', {'form': form})
+
+    else:
+        form = EditProduct(instance=item)
+
+    return render(request, 'shop_app/item_form.html', {'form': form})

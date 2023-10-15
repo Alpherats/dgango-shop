@@ -23,6 +23,16 @@ class Item(models.Model):
         return f'Item {self.item} with price {self.price} & amount {self.amount}'
 
 
+class ItemImg(models.Model):
+    item = models.CharField(max_length=50)
+    price = models.DecimalField(max_digits=8, decimal_places=2, default=0)
+    image = models.ImageField(upload_to='static/images/products/', default="", blank=True)
+    added_at = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        return f'Item {self.item} with price {self.price}'
+
+
 class Order(models.Model):
     client = models.ForeignKey(Client, on_delete=models.CASCADE)
     items = models.ManyToManyField(Item)
